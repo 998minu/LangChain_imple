@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@langchain/openai": "^0.0.12",
+    "axios": "^1.6.7",
+    "dotenv": "^16.3.2",
+    "langchain": "^0.1.5",
+    "openai": "^3.3.0"
+  },
+  "type": "module"
+}
